@@ -1,3 +1,6 @@
+// SINTAXIS JS
+
+
 /*
 
 // TIPOS DE DATOS
