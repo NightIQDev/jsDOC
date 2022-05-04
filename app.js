@@ -1,4 +1,4 @@
-// JS DOM 
+// JS DOM TRAINING
 
 
 
