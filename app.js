@@ -1,3 +1,7 @@
+// JS DOM 
+
+
+
 /*function scoreText (score) {
 	if (score >= 45) {
 		document.querySelector('li').textContent = 'Eres muy bueno, tienes = ' + score + ' Puntos';
